@@ -1,1 +1,1 @@
-rootProject.name = "ExamplePlugin"
+rootProject.name = "HC-MatterSplit"
